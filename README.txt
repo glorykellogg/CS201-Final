@@ -6,8 +6,7 @@ Requires Java JDK 8+
 Compile: javac *.java
 Run: java BookApp
 
-
-Design Explanation
+Design Explanation:
 	•	BookApp: handles user interaction (CLI)
 	•	Catalog: manages book collection and operations
 	•	Book: abstract base class
