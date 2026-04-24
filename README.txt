@@ -1,8 +1,3 @@
-Video Presentation:
-
-https://youtu.be/SmtDYNtU_NI
-
-
 This is a Java CLI application that allows users to store and manage books. 
 It supports printed books and audiobooks, and includes functionality for adding books, searching/sorting, viewing statistics, displaying recently added books, and saving/loading data.
 
@@ -19,3 +14,6 @@ Design Explanation
 	•	PrintedBook, AudioBook: subclasses
 	•	BookInterface: defines shared behaviors
 	•	BookType: enum for book categories
+
+Video Presentation:
+https://youtu.be/SmtDYNtU_NI
